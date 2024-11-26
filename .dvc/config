@@ -1,0 +1,4 @@
+[core]
+    remote = myorigin
+['remote "myorigin"']
+    url = C:\Users\91929\AppData\Local\Temp\timepass
